@@ -28,7 +28,7 @@ The following channels are yet supported:
 |----------|--------------------|----------------------------------------------------------|
 | prg      | Switch 	 	    | Turn the Stove On/Off		                               |
 | isTemp   | Number:Temperature | Receives the actual Temperature of the stove	           |
-| spTemp   | Number:Temperature | Receives and Sets the Target Temperature of the stove	   |
+| spTemp   | Number:Temperature | Receives and sets the target temperature of the stove	   |
 | mode     | String             | Receives the actual mode the stove is in          	   |
 
 
