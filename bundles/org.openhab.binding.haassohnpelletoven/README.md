@@ -10,7 +10,6 @@ WIFI module. More information about the WIFI module can be found here: https://w
 | haassohnpelletoven        | Control of a Haas & Sohn Pellet Stove                                        | oven	    |
 
 
-
 ## Thing Configuration
 
 In general two parameters are required. The IP-Address of the WIFI-Modul of the Stove in the local Network and the Access PIN of the Stove.
@@ -28,7 +27,6 @@ The following channels are yet supported:
 | channelIsTemp   | Number:Temperature | Receives the actual temperature of the stove	          						  |
 | channelSpTemp   | Number:Temperature | Receives and sets the target temperature of the stove	  						  |
 | channelMode     | String             | Receives the actual mode the stove is in like heating, cooling, error, ....	  |
-
 
 ## Full Example
 
